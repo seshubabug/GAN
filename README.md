@@ -1,0 +1,2 @@
+# GAN
+Mnist GAN implementation
